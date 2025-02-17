@@ -1,4 +1,4 @@
-# 🚀 Dashboard Functional Testing using Selenium
+# 🚀 Face Recoginition System Functional Testing using Selenium
 
 ## 📌 Overview
 This project automates functional testing of a **web-based dashboard** using **Selenium WebDriver** with Python. It verifies core functionalities like:
